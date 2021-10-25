@@ -1,0 +1,1 @@
+Creation of a module that filters a set of flights according to different rules. Rules can be selected and set dynamically. 
